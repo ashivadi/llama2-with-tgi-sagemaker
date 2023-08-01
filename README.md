@@ -1,4 +1,4 @@
-# llama2-with-tgi-sagemaker
+# llama2-70b-with-tgi-sagemaker
 Helper to build the TGI image that will work with sagemaker and [llama2-70b](https://huggingface.co/meta-llama/Llama-2-70b-chat-hf). Note you need your own [Huggingface API key](https://huggingface.co/settings/tokens) and must accept [Llama2 EULA](https://ai.meta.com/resources/models-and-libraries/llama-downloads/).
 
 ### Build custom TGI image for Sagemaker. 
